@@ -1,9 +1,6 @@
 ### 👋 Hi there. I’m [For(n)tarv](https://github.com/forntarv)
 
-- 🌱 This is a beginner, please be gentle with me.
-- 🌟 I'll put something interesting here, please give me a star!
-- 💽 I love Feryquitous. (The origin of my username is her songs)
-- 🐭 We shall meet in the place where there is no darkness.
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 <!---
 forntarv/forntarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
